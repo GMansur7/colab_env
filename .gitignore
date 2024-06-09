@@ -1,0 +1,9 @@
+# Somente o arquivo colab_requirements será mantido
+#colab_requirements.txt
+bin
+_gcs_config_ops.so
+include
+lib
+lib64
+pyvenv.cfg
+share
